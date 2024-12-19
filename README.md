@@ -8,7 +8,7 @@ To analyze employee satisfaction and engagement levels within the Seattle Depart
 
 **Conclusion:**   
 The analysis revealed key insights into employee experiences, including areas where departments excel and where improvement is needed. 
-Recommendations based on these findings will help HR leadership address gaps in recognition, inclusivity and develpoment opportunities.
+Recommendations based on these findings will help HR leadership address gaps in recognition, inclusivity and development opportunities.
 Implementing these strategies is expected to foster a more motivated and engaged workforce, contributing to higher productivity and retention.
 
 
